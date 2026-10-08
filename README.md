@@ -75,7 +75,7 @@ Days Phase Projects
 
 ### undefined
 
-#### 1. Setup and clean OSM road network Day 1
+#### 1. Setup and clean OSM road network Day 1: https://github.com/CoolatMax/eu-osm-network-cleaner
 
 ```
 Install QGIS LTR, download your city's roads, fix the CRS, remove junk attributes.
@@ -86,7 +86,7 @@ OSM roads (QuickOSM), GISCO LAU boundary
 Deliverable
 GeoPackage with clean roads plus a project file
 ```
-#### 2. Road hierarchy cartography Day 2
+#### 2. Road hierarchy cartography Day 2: https://github.com/CoolatMax/eu-road-hierarchy-cartography
 
 ```
 Classify motorway to residential roads, label lines, build a print-ready map.
@@ -97,7 +97,7 @@ OSM roads (highway tag)
 Deliverable
 ```
 
-#### 3. Shortest and fastest route analysis Day 3
+#### 3. Shortest and fastest route analysis Day 3: https://github.com/CoolatMax/eu-network-routing-analysis
 ```
 Route between 5 origin-destination pairs, compare shortest vs fastest.
 
@@ -110,7 +110,7 @@ Clean roads, a few OD points you digitize
 Deliverable
 Route layer with distance and minutes fields, comparison map
 ```
-#### 4. Speed-limit-aware routing Day 4
+#### 4. Speed-limit-aware routing Day 4: https://github.com/CoolatMax/eu-speed-aware-routing
 ```
 Add maxspeed values (fill gaps by road class), route with the speed field.
 
@@ -123,7 +123,7 @@ OSM maxspeed tag, national speed rules
 Deliverable
 Before/after map showing the route changing
 ```
-#### 5. Walking catchments around stops Day 5
+#### 5. Walking catchments around stops Day 5: https://github.com/CoolatMax/eu-pedestrian-network-catchments
 ```
 Service areas of 250, 500 and 800 m on the network, not straight-line buffers.
 
@@ -136,7 +136,7 @@ OSM stops or GTFS stops, walkable network
 Deliverable
 Catchment map; compare network vs buffer area
 ```
-#### 6. GTFS transit stop and service frequency map Day 6
+#### 6. GTFS transit stop and service frequency map Day 6: https://github.com/CoolatMax/eu-gtfs-transit-frequency
 ```
 Load GTFS stops and trips, count departures per stop in the morning peak.
 
