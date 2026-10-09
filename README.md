@@ -149,7 +149,7 @@ City GTFS feed (stops.txt, stop_times.txt, trips.txt)
 Deliverable
 Stop-level frequency map plus summary table
 ```
-#### 7. Population served by transit Day 7
+#### 7. Population served by transit Day 7: https://github.com/CoolatMax/eu-transit-population-coverage
 ```
 Overlay catchments with the population grid, find who is outside good coverage.
 
@@ -162,7 +162,7 @@ GEOSTAT 1 km grid or GHSL, catchments from project 5
 Deliverable
 Percent of population within 500 m, gap map
 ```
-#### 8. Flagship: 15-minute city accessibility Days 8 to 9
+#### 8. Flagship: 15-minute city accessibility Days 8 to 9: https://github.com/CoolatMax/eu-15min-city-accessibility
 ```
 Service areas by walk time to groceries, schools, clinics, parks, transit; score each
 area.
@@ -176,7 +176,7 @@ OSM POIs, roads, population grid
 Deliverable
 Accessibility score map and a 1-page findings note
 ```
-#### 9. Road collision hotspots Day 10
+#### 9. Road collision hotspots Day 10: 
 ```
 Map collisions, create a density surface, rank dangerous road segments.
 
